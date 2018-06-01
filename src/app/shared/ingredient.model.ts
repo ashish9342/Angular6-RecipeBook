@@ -1,4 +1,5 @@
 export class Ingredient{
+  //created in shared folder, so that both the components can use it
   // public name : string;
   // public amount : number;
   //
