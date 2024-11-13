@@ -1,4 +1,6 @@
 import { Component, OnInit, EventEmitter, Output } from '@angular/core';
+import { NgFor } from '@angular/common';
+
 import { Recipe } from '../recipe.model';
 import { RecipeItemComponent } from './recipe-item/recipe-item.component';
 
@@ -6,7 +8,7 @@ import { RecipeItemComponent } from './recipe-item/recipe-item.component';
   selector: 'app-recipe-list',
   templateUrl: './recipe-list.component.html',
   styleUrls: ['./recipe-list.component.css'],
-  imports: [RecipeItemComponent],
+  imports: [RecipeItemComponent, NgFor],
   standalone: true,
 })
 export class RecipeListComponent implements OnInit {
