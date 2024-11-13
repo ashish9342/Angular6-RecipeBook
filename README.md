@@ -1,7 +1,12 @@
+# Screenshots
+
+  ### Homepage
+  <img width="1679" alt="Screenshot 2024-11-13 at 2 57 50 PM" src="https://github.com/user-attachments/assets/996e94ab-5f24-48a0-a490-fccc3451c001">
 
 # Recipe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
+- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
+- Upgrading it to angular 18
 
 ## Development server
 
