@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { NgFor } from '@angular/common';
 import { Ingredient } from '../shared/ingredient.model';
 import { ShoppingEditComponent } from './shopping-edit/shopping-edit.component';
 
@@ -8,7 +9,7 @@ import { ShoppingEditComponent } from './shopping-edit/shopping-edit.component';
   standalone: true,
   templateUrl: './shopping-list.component.html',
   styleUrls: ['./shopping-list.component.css'],
-  imports: [ShoppingEditComponent]
+  imports: [ShoppingEditComponent, NgFor]
 })
 export class ShoppingListComponent implements OnInit {
   // ingredients = [];
