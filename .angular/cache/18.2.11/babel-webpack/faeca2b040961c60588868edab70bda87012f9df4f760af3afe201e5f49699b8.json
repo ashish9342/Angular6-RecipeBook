@@ -1,1 +1,0 @@
-{"ast":null,"code":"export class Recipe {\n  constructor(name, desc, imagePath) {\n    this.name = name;\n    this.description = desc;\n    this.imagePath = imagePath;\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
