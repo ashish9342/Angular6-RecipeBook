@@ -1,7 +1,14 @@
+# PROJECT UPDATED TO ANGULAR 18
+
 # Screenshots
 
   ### Homepage
-  <img width="1679" alt="Screenshot 2024-11-13 at 2 57 50 PM" src="https://github.com/user-attachments/assets/996e94ab-5f24-48a0-a490-fccc3451c001">
+<img width="1095" alt="Screenshot 2024-11-13 at 3 19 06 PM" src="https://github.com/user-attachments/assets/9f8d15a4-650a-4282-9f18-936ba76e5c00">
+
+<img width="1071" alt="Screenshot 2024-11-13 at 3 20 49 PM" src="https://github.com/user-attachments/assets/e52b03ed-8344-45ee-9988-56f1dc67e266">
+
+
+  
 
 # Recipe
 
@@ -32,4 +39,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-# Angular6-RecipeBook
+# Angular18-RecipeBook
